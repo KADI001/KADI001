@@ -1,5 +1,6 @@
 <h1 align = "center" color = "red"> Hi there 
-<img src="https://lh3.google.com/u/0/d/1nrn0v7FQKz3SjQYL4IdEyN1VjiTomCt_=w1920-h956-iv1" height = "32"/></h1>
+<img src="https://drive.google.com/file/d/1nrn0v7FQKz3SjQYL4IdEyN1VjiTomCt_/view?usp=sharing" height = "32"/></h1>
+
 <!--
 **KADI001/KADI001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
